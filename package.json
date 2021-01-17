@@ -1,7 +1,7 @@
 {
   "name": "1-Passport-Example",
   "version": "1.0.0",
-  "description": "",
+  "description": "AS A developer  I WANT a walk-through of the codebase  SO THAT I can use it as a starting point for a new project",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,5 +19,13 @@
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
     "sequelize": "^5.8.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeresIvan/ReverseEngineering.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BeresIvan/ReverseEngineering/issues"
+  },
+  "homepage": "https://github.com/BeresIvan/ReverseEngineering#readme"
 }
